@@ -3,16 +3,7 @@
 ./.venv
 ./backend/.venv
 ./backend/.env
-*.pyc
-*.pyo
-*.pyd
-*.pyw
-*.pyz
-*.pywz
-*.pyzw
-*.pyzwz
-*.pyzwzw
-*.pyzwzwz
+
 
 backend/.venv
 frontend/.venv
