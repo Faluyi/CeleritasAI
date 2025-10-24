@@ -19,4 +19,4 @@ frontend/.venv
 
 Tech project.txt
 ./frontend/node_modules
-./frontend/package-lock.json
+frontend/package-lock.json
